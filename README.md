@@ -1,6 +1,6 @@
 # 🧑‍💻 Challenge Foro Spring3
 
-![Logo del Proyecto](https://github.com/Xn0ch3/Challenge-Foro-Sprin3/raw/main/assets/Challenge-Foro-Sprin3.png)
+![Logo del Proyecto](https://github.com/Xn0ch3/Challenge-Foro-Spring3/raw/main/assets/Challenge-Foro-Spring3.png)
 
 **Descripción:**
 Este proyecto es una implementación de un foro en línea utilizando **Spring Boot 3**, **Spring Security**, **JPA/Hibernate** y **JWT** para la autenticación. Permite a los usuarios registrarse, iniciar sesión y participar en discusiones sobre diversos temas.
@@ -192,6 +192,8 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor:
 
 ## 📞 Contacto
 
-* Correo electrónico: [tu\_email@example.com](mailto:tu_email@example.com)
-* GitHub: [https://github.com/Xn0ch3](https://github.com/Xn0ch3)
+GitHub: @Xn0ch3
+LinkedIn: [https://www.linkedin.com/in/xavier-nochelli/]
+Email: XavierNochelli@Gmail.com
+
 
